@@ -1,7 +1,7 @@
 ![MasterHead]("https://komarev.com/ghpvc/?username=xolanilan&label=Profile%20views&color=0e75b6&style=flat)
 <h1 align="center">Hi 👋, I'm Xolani Shongwe</h1>
 <h3 align="center">Aspiring Software Developer(Intern) from South Africa</h3>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xolanilan&label=Profile%20views&color=0e75b6&style=flat" alt="xolanilan" /> </p>
 
