@@ -12,7 +12,9 @@
 - 💬 Ask me about **Java , C++ , Javascript, HTML5, CSS3, Bootstrap, MySQL**
 
 - 📫 How to reach me **lanshongwe10@gmail.com || xolanishongwe10@gmail.com**
-- <a href="https://portfolio-website-nine-xi.vercel.app/" target="blank" style="text-decoration: none">Portfolio Link</a>
+- 🔗 <a href="https://portfolio-website-nine-xi.vercel.app/" target="blank">
+          <p><b>Portfolio Link</b></p>
+     </a>
 
 <h3 align="left">Connect with me 🤝😁:</h3>
 <p align="left">
