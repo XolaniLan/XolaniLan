@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xolanilan&label=Profile%20views&color=0e75b6&style=flat" alt="xolanilan" /> </p>
 
-- 🔭 I’m currently working on **Recipe and Gallery Javascript Application**
+- 🔭 I’m currently working on **Stock Photo&Video Media Application**
 
-- 🌱 I’m currently learning **React.js, Spring boot, Operating Systems and Figma**
+- 🌱 I’m currently learning **React.js, Spring boot, Operating Systems, Figma and Data Structures & Algorithms**
 
-- 💬 Ask me about **Java , C++ , Javascript, HTML5, CSS3, Bootstrap, MySQL**
+- 💬 Ask me about **Java , C++ , Javascript, HTML5, CSS3, Bootstrap, MySQL, Python, Git & GitHub, Database Design and Implementation**
 
 - 📫 How to reach me **lanshongwe10@gmail.com || xolanishongwe10@gmail.com**
 -  <a href="https://portfolio-website-nine-xi.vercel.app/" target="blank"> 🔗<b> Portfolio Link</b></a>
